@@ -1,6 +1,6 @@
 
 import { ReactComponent as InstagramIcon } from './instagram.svg';
-import { ReactComponent as linkedinIcon } from './linkedin.svg';
+import{ ReactComponent as LinkedinIcon} from './linkedin.svg';
 import { ReactComponent as YoutubeIcon } from './youtube.svg';
 import './styles.css';
 
@@ -14,7 +14,7 @@ function Footer() {
                     <YoutubeIcon />
                 </a>
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
-                    <InstagramIcon />
+                    <LinkedinIcon />
                 </a>
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
                     <InstagramIcon />
